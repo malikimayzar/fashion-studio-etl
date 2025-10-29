@@ -1,0 +1,16 @@
+# Core ETL & Testing
+requests~=2.32
+beautifulsoup4~=4.12
+pandas~=2.2
+pytest~=7.0
+pytest-cov~=4.0
+
+# Database (PostgreSQL)
+sqlalchemy~=2.0
+psycopg2-binary~=2.9
+python-dotenv~=1.0
+
+# Optional: Google Sheets
+# gspread~=5.10
+# google-auth~=2.36  
+# google-api-python-client~=2.152

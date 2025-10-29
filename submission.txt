@@ -1,0 +1,12 @@
+# 1. Jalankan ETL Pipeline
+python main.py
+
+# 2. Jalankan Unit Tests
+python -m pytest test/ -v
+
+# 3. Jalankan Test Coverage
+coverage run -m pytest test/
+coverage report
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/1gIn33s2AzRU8_a2wI-vSaB5X8IHMEk_rGElcadzqurs/edit?gid=584281744#gid=584281744
